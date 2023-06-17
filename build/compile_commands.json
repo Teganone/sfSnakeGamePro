@@ -1,0 +1,87 @@
+[
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\Game.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\Game.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/Game.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\element\\Barrier.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\element\\Barrier.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/element/Barrier.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\element\\Button.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\element\\Button.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/element/Button.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\element\\Fruit.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\element\\Fruit.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/element/Fruit.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\element\\Grid.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\element\\Grid.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/element/Grid.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\element\\OptionButton.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\element\\OptionButton.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/element/OptionButton.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\element\\Snake.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\element\\Snake.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/element/Snake.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\element\\TitleSprite.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\element\\TitleSprite.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/element/TitleSprite.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\main.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/main.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\screen\\AboutScreen.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\screen\\AboutScreen.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/screen/AboutScreen.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\screen\\GameOverScreen.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\screen\\GameOverScreen.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/screen/GameOverScreen.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\screen\\GameScreen.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\screen\\GameScreen.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/screen/GameScreen.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\screen\\HelpScreen.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\screen\\HelpScreen.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/screen/HelpScreen.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\screen\\MenuScreen.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\screen\\MenuScreen.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/screen/MenuScreen.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\screen\\OptionScreen.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\screen\\OptionScreen.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/screen/OptionScreen.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\screen\\PauseScreen.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\screen\\PauseScreen.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/screen/PauseScreen.cpp"
+},
+{
+  "directory": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/build",
+  "command": "D:\\Programs\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\screen\\Screen.cpp.obj -c D:\\Programs\\VSCode\\oop\\sfSnakePro-cdc-1.0\\src\\screen\\Screen.cpp",
+  "file": "D:/Programs/VSCode/oop/sfSnakePro-cdc-1.0/src/screen/Screen.cpp"
+}
+]
